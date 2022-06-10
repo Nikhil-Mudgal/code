@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lenovo/code/mlruns/0/b2435d2c968445f5afc1ba2af9b4ef0f/artifacts
+end_time: 1654888063748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b2435d2c968445f5afc1ba2af9b4ef0f
+run_uuid: b2435d2c968445f5afc1ba2af9b4ef0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654888061555
+status: 3
+tags: []
+user_id: lenovo
